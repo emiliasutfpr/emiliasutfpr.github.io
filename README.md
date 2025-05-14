@@ -14,3 +14,6 @@
   -  [Creators](https://creators.spotify.com/pod/profile/emilias-podcast/)
 - [Fronteiras da Engenharia de Software](https://fronteirases.github.io/)
 - [Elixir em Foco](https://www.elixiremfoco.com/)
+
+
+  [Artigo WIT 2025](./artigowit2025)
