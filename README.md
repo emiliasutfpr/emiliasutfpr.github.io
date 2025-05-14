@@ -8,7 +8,7 @@
 
 ## Rede Emílias de Podcasts
 
-- Emílias Podcasts - Mulheres na Computação
+- *Emílias Podcast - Mulheres na Computação*
   -  [YouTube](https://www.youtube.com/@emilias_utfpr)
   -  [Spotify](https://open.spotify.com/show/1Pm95WtrS8ZqBqRCUprQDq)
   -  [Creators](https://creators.spotify.com/pod/profile/emilias-podcast/)
